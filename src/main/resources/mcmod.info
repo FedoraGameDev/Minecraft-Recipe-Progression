@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "rp",
+  "name": "Recipe Progression",
+  "description": "Simple mod for adding recipe progression for players.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Fedora Dev"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
